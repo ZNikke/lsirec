@@ -13,6 +13,12 @@ restrictions.
 
 Select your adapter.
 
+`59.  Dump PCI config space`
+
+If you have multiple adapters this helps figuring out the mapping between the lsiutil symbolic names and the PCI device ID.
+
+For example the combined location 001b00 corresponds to 0000:1b:00.0 when running lsirec later on.
+
 `46.  Upload FLASH section` → `5.  Complete (all sections)`
 
 Make a complete Flash backup to be safe.
