@@ -27,6 +27,8 @@ Make a complete Flash backup to be safe.
 
 `68.  Show port state summary`
 
+`69.  Show board manufacturing information`
+
 Copy and paste these somewhere safe. Take special note of the SAS WWID.
 
 `33.  Erase non-volatile adapter storage` → `3.  FLASH`, then also
