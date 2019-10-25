@@ -37,6 +37,8 @@ Copy and paste these somewhere safe. Take special note of the SAS WWID.
 Wipe the whole Flash. This will take a while. Option number 3 excludes the
 manufacturing config pages, so you need both.
 
+Press `RETURN` to back up to the main menu.
+
 `2.  Download firmware (update the FLASH)`
 
 Flash the new firmware. Optionally, use
